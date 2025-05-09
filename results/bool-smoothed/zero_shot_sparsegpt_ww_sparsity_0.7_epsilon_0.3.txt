@@ -1,0 +1,2 @@
+sparsegpt_ww:
+{'results': {'boolq': {'acc': 0.42568807339449544, 'acc_stderr': 0.008647930658219415}}, 'versions': {'boolq': 1}, 'config': {'model': 'hf-causal-experimental', 'model_args': 'pretrained=meta-llama/Llama-2-7b-hf,cache_dir=./llm_weights,use_accelerate=True', 'num_fewshot': 0, 'batch_size': None, 'batch_sizes': [], 'device': None, 'no_cache': True, 'limit': None, 'bootstrap_iters': 100000, 'description_dict': {}}}

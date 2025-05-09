@@ -1,0 +1,2 @@
+method	actual_sparsity	ppl_test
+magnitude_ww	0.6012	27.2081

@@ -1,0 +1,2 @@
+method	actual_sparsity	ppl_test
+sparse_gpt_ww	0.0000	5.4724

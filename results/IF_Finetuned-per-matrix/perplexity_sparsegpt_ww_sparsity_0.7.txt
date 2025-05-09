@@ -1,0 +1,2 @@
+method	actual_sparsity	ppl_test
+sparsegpt_ww	0.6924	4121.4463

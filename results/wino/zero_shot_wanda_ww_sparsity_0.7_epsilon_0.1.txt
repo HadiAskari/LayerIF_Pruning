@@ -1,0 +1,2 @@
+wanda_ww:
+{'results': {'winogrande': {'acc': 0.489344909234412, 'acc_stderr': 0.0140492945362904}}, 'versions': {'winogrande': 0}, 'config': {'model': 'hf-causal-experimental', 'model_args': 'pretrained=meta-llama/Llama-2-7b-hf,cache_dir=./llm_weights,use_accelerate=True', 'num_fewshot': 0, 'batch_size': None, 'batch_sizes': [], 'device': None, 'no_cache': True, 'limit': None, 'bootstrap_iters': 100000, 'description_dict': {}}}
